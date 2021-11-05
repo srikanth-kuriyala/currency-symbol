@@ -1,0 +1,11 @@
+{
+  "name": "currency-symbol",
+  "version": "1.0.0",
+  "description": "Get currency symbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srikanth Kuriyala",
+  "license": "ISC"
+}
