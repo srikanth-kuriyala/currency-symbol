@@ -1,5 +1,5 @@
 {
-  "name": "currency-symbol",
+  "name": "@srikanth.kuriyala/currency-symbols",
   "version": "1.0.0",
   "description": "Get currency symbol",
   "main": "index.js",
